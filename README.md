@@ -44,3 +44,12 @@ local grid = GridViewButtons({
 The resulting image should be
 
 ![alt text](https://github.com/alexiusacademia/CoronaSDKGridView/raw/master/images/preview.png "Preview")
+
+
+For live app demo, please download game below and look for the level list option:
+
+Android:
+https://play.google.com/store/apps/details?id=com.alexiusacademia.hitit
+
+iOS:
+https://itunes.apple.com/us/app/hitter/id1248327641?ls=1&mt=8
